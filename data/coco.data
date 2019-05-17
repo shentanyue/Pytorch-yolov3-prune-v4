@@ -1,0 +1,6 @@
+classes=80
+train=/data_1/shenty/coco/trainvalno5k.txt
+valid=/data_1/shenty/coco/5k.txt
+names=data/coco.names
+backup=backup/
+eval=coco
